@@ -32,7 +32,6 @@ Thumbs.db
 
 # Test results
 test-results/
-*.json
 
 # Temporary files
 *.tmp
